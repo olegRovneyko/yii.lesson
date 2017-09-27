@@ -894,6 +894,8 @@ h2.title {
   font-size: 14px;
   font-weight: 400;
   color: #696763;
+  height: 4em;
+  overflow: hidden;
 }
 
 .productinfo img{
@@ -1100,11 +1102,11 @@ h2.title {
 **************************/
 
 
-#advertisement {
+#banner {
   padding-bottom: 45px;
 }
 
-#advertisement img {
+#banner img {
   width: 100%;
 }
 
@@ -2533,5 +2535,6 @@ h2.title {
 .contact-info .social-networks ul li a:hover{
   color: #FE980F;
 }
+
 
 
